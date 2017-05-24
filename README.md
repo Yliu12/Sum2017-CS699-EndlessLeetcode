@@ -1,6 +1,7 @@
 # Sum2017-CS699-EndlessLeetcode
-##finished problems:
+##finished problems:##
 Array Partition I
+
 https://leetcode.com/problems/array-partition-i/#/description
 
 
