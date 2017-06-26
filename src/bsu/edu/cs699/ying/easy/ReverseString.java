@@ -1,4 +1,4 @@
-package bsu.edu.cs699.ying;
+package bsu.edu.cs699.ying.easy;
 
 /**
  * [Reverse String](https://leetcode.com/problems/reverse-string/#/description)

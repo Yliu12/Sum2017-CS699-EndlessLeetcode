@@ -1,4 +1,4 @@
-package bsu.edu.cs699.ying;
+package bsu.edu.cs699.ying.easy;
 
 import java.util.Arrays;
 

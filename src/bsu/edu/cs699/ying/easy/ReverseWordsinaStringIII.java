@@ -1,4 +1,4 @@
-package bsu.edu.cs699.ying;
+package bsu.edu.cs699.ying.easy;
 
 /**
  * [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)

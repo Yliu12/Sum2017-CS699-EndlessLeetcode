@@ -1,7 +1,4 @@
-package bsu.edu.cs699.ying;
-
-import bsu.edu.cs699.nan.TemplateClass;
-
+package bsu.edu.cs699.ying.easy;
 
 
 import java.util.*;

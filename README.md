@@ -11,6 +11,7 @@ __EASY__
 * [Number Complement](https://leetcode.com/problems/number-complement/#/description)
 * [Reverse String](https://leetcode.com/problems/reverse-string/#/description)
 * [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)
+* [Single Number](https://leetcode.com/problems/single-number/#/description)
 
 
 

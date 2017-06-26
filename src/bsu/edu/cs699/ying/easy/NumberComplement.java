@@ -1,4 +1,4 @@
-package bsu.edu.cs699.ying;
+package bsu.edu.cs699.ying.easy;
 
 /**
  * Number Complement https://leetcode.com/problems/number-complement/#/description
