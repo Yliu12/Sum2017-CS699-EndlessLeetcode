@@ -14,16 +14,21 @@ __EASY__
 * [Single Number](https://leetcode.com/problems/single-number/#/description)
 * [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description)
 * [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/solutions)
-
+* [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description)
+* [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/#/description)
+* []()
+* []()
 
 __Medium__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
-
+* [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
+* [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
+* []()
 
 __IN Progress__
-* [Sum of TwoIntegers](https://leetcode.com/problems/sum-of-two-integers/#/description)
+* [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-
+* []()
 
 
 Summer 2017 Independent Study, LeetCode algo practice. Ying Liu, Nan Zhang
