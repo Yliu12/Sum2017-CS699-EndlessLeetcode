@@ -1,2 +1,3 @@
 Easy Questions:
-<br> * FizzBuzz: (https://leetcode.com/problems/fizz-buzz/#/description）
+[FizzBuzz](https://leetcode.com/problems/fizz-buzz/#/description).
+
