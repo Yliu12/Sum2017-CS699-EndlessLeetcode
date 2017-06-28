@@ -1,6 +1,6 @@
 # Sum2017-CS699-EndlessLeetcode #
 
-###YING
+### YING ###
 
 __EASY__
 
