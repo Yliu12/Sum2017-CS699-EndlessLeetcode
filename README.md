@@ -1,6 +1,6 @@
 # Sum2017-CS699-EndlessLeetcode #
 
-## finished problems: 
+###YING
 
 __EASY__
 
