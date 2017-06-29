@@ -46,9 +46,7 @@ Easy Questions:
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/#/description)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/#/description)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description)
-[FizzBuzz](https://leetcode.com/problems/fizz-buzz/#/description)
-[FizzBuzz](https://leetcode.com/problems/fizz-buzz/#/description)
-[FizzBuzz](https://leetcode.com/problems/fizz-buzz/#/description)
+
 
 
 
