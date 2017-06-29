@@ -46,7 +46,7 @@ Easy Questions:
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/#/description)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/#/description)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description)
-Medium Questions:
+* Medium Questions:Need To Be Updated
 * [FizzBuzz](https://leetcode.com/problems/fizz-buzz/#/description)
 * [Reverse String](https://leetcode.com/problems/reverse-string/#/description)
 * [Single Number](https://leetcode.com/problems/single-number/#/description)
