@@ -23,7 +23,6 @@ __EASY__
 * [Add Digits](https://leetcode.com/problems/add-digits/#/description)
 * [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description)
 * [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)
-* [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 * []()
 * []()
 * []()
@@ -38,6 +37,7 @@ __Medium__
 __IN Progress__
 * [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
+* [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 * []()
 * []()
 
