@@ -20,6 +20,14 @@ __EASY__
 * [Detect Capital](https://leetcode.com/problems/detect-capital/#/description)
 * [Findthe Difference](https://leetcode.com/problems/find-the-difference/#/description)
 * [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/#/description)
+* [Add Digits](https://leetcode.com/problems/add-digits/#/description)
+* [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description)
+* [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)
+* [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
+* []()
+* []()
+* []()
+
 
 __Medium__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
@@ -30,7 +38,6 @@ __Medium__
 __IN Progress__
 * [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-* [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)
 * []()
 * []()
 

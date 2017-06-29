@@ -6,24 +6,30 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by yliu12 on 6/28/2017.
+ * https://leetcode.com/submissions/detail/107778555/
+ * Created by yliu12 on 6/28/2017
+ *34 / 34 test cases passed.
+ Status: Accepted
+ Runtime: 91 ms.
  */
 public class FindAllNumbersDisappearedinanArray {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         ArrayList<Integer> result = new ArrayList<>();
-        ArrayList<Integer> numsList = new ArrayList<>();
+        HashSet<Integer> numsSet = new HashSet<>();
 
         for(int i=0;i<nums.length;i++){
-            if(numsList.contains(nums[i]))
+            if(numsSet.contains(nums[i]))
                 continue;
-            numsList.add(nums[i]);
+            numsSet.add(nums[i]);
         }
 
+        int numsInSet =numsSet.size();
         for (int i=1;i<nums.length+1;i++){
-            if(numsList.contains(i))
-                continue;
-            result.add(i);
-
+            if(result.size()== nums.length-numsInSet){
+                return result;
+            }
+            if(numsSet.add(i))
+                result.add(i);
         }
         return result;
     }
