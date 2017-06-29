@@ -32,12 +32,12 @@ __Medium__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
-* [Single Element in a Sorted Array]()
+* [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/#/description)
+* [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 
 __IN Progress__
 * [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-* [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 * []()
 * []()
 
