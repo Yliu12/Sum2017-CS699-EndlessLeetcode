@@ -23,7 +23,7 @@ __EASY__
 * [Add Digits](https://leetcode.com/problems/add-digits/#/description)
 * [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description)
 * [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)
-* []()
+* [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/#/description)
 * []()
 * []()
 
