@@ -16,9 +16,7 @@ public class QueueReconstructionbyHeight {
 
         Map<Integer,ArrayList> peopleMap = new HashMap<>();
         for ( int[] person :people){
-            if(null == peopleMap.get(person[1])) {
-                peopleMap.put(person[1], new ArrayList());
-            }
+                peopleMap.putIfAbsent(person[1], new ArrayList());
                 peopleMap.get(person[1]).add(person[0]);
         }
         List<Integer> peopleMapKey = new ArrayList(peopleMap.keySet());

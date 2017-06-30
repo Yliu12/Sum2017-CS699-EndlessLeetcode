@@ -1,21 +1,18 @@
 package bsu.edu.cs699.ying.easy;
 
-import bsu.edu.cs699.ying.medium.QueueReconstructionbyHeight;
-
 import java.util.ArrayList;
 
 /**
  * https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description
  * Created by yliu12 on 6/30/2017.
+ * 133 / 133 test cases passed.
+ * Status: Accepted
+ * Runtime: 73 ms
  */
 public class MinimumIndexSumofTwoLists {
     public String[] findRestaurant(String[] list1, String[] list2) {
-        if (list1[0].equals(list2[0])) {
-            String[] result = {list1[0]};
-            return result;
-        }
-
         int indexSum = list1.length + list2.length - 2;
+
         String[] listLong, listShort;
         if (list1.length > list2.length) {
             listLong = list1;
@@ -25,13 +22,13 @@ public class MinimumIndexSumofTwoLists {
             listShort = list1;
         }
         ArrayList<String> resultList = new ArrayList<>();
-        for (int curSum = 0; curSum < indexSum; curSum++) {
+        for (int curSum = 0; curSum <= indexSum; curSum++) {
             int maxi = curSum > listLong.length - 1 ? listLong.length - 1 : curSum;
 
             for (int i = 0; i <= maxi; i++) {
                 int j = (curSum - i);//.> (listShort.length - 1) ? listShort.length - 1 : curSum - i;
                 if (j >= listShort.length) {
-                    break;
+                    continue;
                 }
                 if (listLong[i].equals(listShort[j])) {
                     resultList.add(listLong[i]);
