@@ -26,6 +26,10 @@ __EASY__
 * [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/#/description)
 * [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description)
 * [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)
+* [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
+* []()
+* []()
+* []()
 
 
 __Medium__
@@ -35,11 +39,19 @@ __Medium__
 * [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/#/description)
 * [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 * [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)
+* [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description)
+* [Log System](https://leetcode.com/contest/leetcode-weekly-contest-39/problems/design-log-storage-system/) --contest 0701
+* []()
+
+__Hard__
+* [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
+* [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
+
+
+
 
 __IN Progress__
-* [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-* []()
 
 
 Summer 2017 Independent Study, LeetCode algo practice. Ying Liu, Nan Zhang
