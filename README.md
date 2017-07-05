@@ -27,9 +27,9 @@ __EASY__
 * [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description)
 * [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)
 * [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)
-* []()
-* []()
-* []()
+* [Ransom Note](https://leetcode.com/problems/ransom-note/#/description)
+* [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description)
+* [Relative Ranks](https://leetcode.com/problems/relative-ranks/#/description)
 
 
 __Medium__
