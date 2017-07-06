@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY__
+__EASY, 26__
 
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
@@ -30,9 +30,14 @@ __EASY__
 * [Ransom Note](https://leetcode.com/problems/ransom-note/#/description)
 * [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description)
 * [Relative Ranks](https://leetcode.com/problems/relative-ranks/#/description)
+* [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)
+* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/#/description) --Pain In the Ass problem
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/solutions)
+* []()
 
 
-__Medium__
+
+__Medium, 9__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -42,10 +47,16 @@ __Medium__
 * [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description)
 * [Log System](https://leetcode.com/contest/leetcode-weekly-contest-39/problems/design-log-storage-system/) --contest 0701
 * [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/#/description) --code in comment, dont know what's wrong. Stops at 4563 constantly.
+* [Best Time to Buy and Sell Stock with Cooldown]()
+* []()
+* []()
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
+* []()
+* []()
+* []()
 
 
 
