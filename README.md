@@ -41,7 +41,7 @@ __Medium__
 * [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)
 * [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description)
 * [Log System](https://leetcode.com/contest/leetcode-weekly-contest-39/problems/design-log-storage-system/) --contest 0701
-* []()
+* [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/#/description) --code in comment, dont know what's wrong. Stops at 4563 constantly.
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
