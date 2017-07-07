@@ -49,12 +49,12 @@ __Medium, 9__
 * [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/#/description) -- code in comment, dont know what's wrong. Stops at 4563 constantly.
 * [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/#/description)
 * [Single Number III](https://leetcode.com/problems/single-number-iii/#/description)
-* []()
+* [Minimum Moves to Equal Array Elements II.java](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/#/solutions)
+* [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
-* [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
 * []()
 * []()
 
