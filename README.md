@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 26__
+__EASY, 29__
 
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
@@ -37,7 +37,7 @@ __EASY, 26__
 
 
 
-__Medium, 9__
+__Medium, 14__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -51,11 +51,11 @@ __Medium, 9__
 * [Single Number III](https://leetcode.com/problems/single-number-iii/#/description)
 * [Minimum Moves to Equal Array Elements II.java](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/#/solutions)
 * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
+* [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
-* []()
 * []()
 
 
