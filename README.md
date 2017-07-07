@@ -45,16 +45,16 @@ __Medium, 9__
 * [ArithmeticSlices](https://leetcode.com/problems/arithmetic-slices/#/description)
 * [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)
 * [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description)
-* [Log System](https://leetcode.com/contest/leetcode-weekly-contest-39/problems/design-log-storage-system/) --contest 0701
-* [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/#/description) --code in comment, dont know what's wrong. Stops at 4563 constantly.
-* [Best Time to Buy and Sell Stock with Cooldown]()
-* []()
+* [Log System](https://leetcode.com/contest/leetcode-weekly-contest-39/problems/design-log-storage-system/) -- contest 0701
+* [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/#/description) -- code in comment, dont know what's wrong. Stops at 4563 constantly.
+* [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/#/description)
+* [Single Number III](https://leetcode.com/problems/single-number-iii/#/description)
 * []()
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
-* []()
+* [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
 * []()
 * []()
 
