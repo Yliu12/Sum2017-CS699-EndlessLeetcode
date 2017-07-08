@@ -33,7 +33,9 @@ __EASY, 29__
 * [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)
 * [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/#/description) --Pain In the Ass problem
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/solutions)
-* []()
+* [DeleteNodeinaLinkedList](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description)
+* [Majority Element](https://leetcode.com/problems/majority-element/#/description)
+* [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)
 
 
 
@@ -52,6 +54,7 @@ __Medium, 14__
 * [Minimum Moves to Equal Array Elements II.java](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/#/solutions)
 * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)
+* [Majority Element II](https://leetcode.com/problems/majority-element-ii/#/description)
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
