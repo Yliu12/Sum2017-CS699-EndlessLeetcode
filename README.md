@@ -38,8 +38,6 @@ __EASY, 29__
 * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)
 * [Average of Levels in Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-40/problems/average-of-levels-in-binary-tree/) -contest 07/08 
 * []()
-* []()
-* []()
 
 
 
@@ -59,10 +57,20 @@ __Medium, 14__
 * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/solutions)
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)
 * [Majority Element II](https://leetcode.com/problems/majority-element-ii/#/description)
+* [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
+
 
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
+* [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
+* [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/#/description)
+* []()
+* []()
+* []()
+* []()
+
+
 
 
 
