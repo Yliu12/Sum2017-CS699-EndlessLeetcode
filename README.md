@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 29__
+__EASY, 33__
 
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
@@ -41,7 +41,7 @@ __EASY, 29__
 
 
 
-__Medium, 14__
+__Medium, 16__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -60,7 +60,7 @@ __Medium, 14__
 * [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
 
 
-__Hard__
+__Hard, 4__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
