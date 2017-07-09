@@ -36,6 +36,7 @@ __EASY, 29__
 * [DeleteNodeinaLinkedList](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description)
 * [Majority Element](https://leetcode.com/problems/majority-element/#/description)
 * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)
+* [Average of Levels in Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-40/problems/average-of-levels-in-binary-tree/) -contest 07/08 
 * []()
 * []()
 * []()
@@ -62,7 +63,6 @@ __Medium, 14__
 __Hard__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
-* [Average of Levels in Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-40/problems/average-of-levels-in-binary-tree/) -contest 07/08 
 
 
 
