@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 33__
+__EASY, 36__
 
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
@@ -45,7 +45,7 @@ __EASY, 33__
 * []()
 
 
-__Medium, 16__
+__Medium, 17__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
