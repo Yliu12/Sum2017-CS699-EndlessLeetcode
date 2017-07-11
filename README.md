@@ -37,8 +37,12 @@ __EASY, 33__
 * [Majority Element](https://leetcode.com/problems/majority-element/#/description)
 * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)
 * [Average of Levels in Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-40/problems/average-of-levels-in-binary-tree/) -contest 07/08 
+* [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/#/description)
+* [Same Tree](https://leetcode.com/problems/same-tree/)
+* [Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)
 * []()
-
+* []()
+* []()
 
 
 __Medium, 16__
@@ -58,6 +62,10 @@ __Medium, 16__
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)
 * [Majority Element II](https://leetcode.com/problems/majority-element-ii/#/description)
 * [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
+* [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)
+* []()
+* []()
+* []()
 
 
 __Hard, 4__
@@ -65,8 +73,6 @@ __Hard, 4__
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
 * [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/#/description)
-* []()
-* []()
 * []()
 * []()
 
