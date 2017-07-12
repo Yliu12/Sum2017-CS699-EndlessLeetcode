@@ -40,9 +40,9 @@ __EASY, 36__
 * [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/#/description)
 * [Same Tree](https://leetcode.com/problems/same-tree/)
 * [Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)
-* []()
-* []()
-* []()
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate-ii/#/description)
+* [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate/#/description)
 
 
 __Medium, 17__
@@ -63,8 +63,8 @@ __Medium, 17__
 * [Majority Element II](https://leetcode.com/problems/majority-element-ii/#/description)
 * [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
 * [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)
-* []()
-* []()
+* [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/#/description)
+* [IntegerToRoman](https://leetcode.com/problems/integer-to-roman/#/description)
 * []()
 
 
