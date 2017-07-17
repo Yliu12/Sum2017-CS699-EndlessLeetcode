@@ -2,8 +2,7 @@
 
 ### YING ###
 
-__EASY, 39__
-
+__EASY, 46__
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
 * [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description)
@@ -43,6 +42,17 @@ __EASY, 39__
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate-ii/#/description)
 * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate/#/description)
+* [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/#/description)
+* [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/#/description)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)
+* [Intersection of TwoArrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)
+* [Word Pattern](https://leetcode.com/problems/word-pattern/#/description)
+* [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/#/description)
+* [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)
+* []()
+* []()
+
+
 
 
 __Medium, 19__
@@ -65,7 +75,11 @@ __Medium, 19__
 * [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)
 * [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/#/description)
 * [Integer To Roman](https://leetcode.com/problems/integer-to-roman/#/description)
-* []()
+* [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)
+* [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/#/description)
+* [Sort List](https://leetcode.com/problems/sort-list/#/description)
+* [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/#/description)
+
 
 
 __Hard, 4__
@@ -75,6 +89,8 @@ __Hard, 4__
 * [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/#/description)
 * []()
 * []()
+* []()
+
 
 
 
