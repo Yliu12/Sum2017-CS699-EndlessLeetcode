@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 46__
+__EASY, 49__
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
 * [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description)
@@ -49,13 +49,16 @@ __EASY, 46__
 * [Word Pattern](https://leetcode.com/problems/word-pattern/#/description)
 * [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/#/description)
 * [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)
+* [Missing Number](https://leetcode.com/problems/missing-number/#/description)-Bit Manipulation
+* [Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)
+* [Student Attendance RecordI](https://leetcode.com/problems/student-attendance-record-i/#/description)
 * []()
 * []()
 
 
 
 
-__Medium, 19__
+__Medium, 23__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -79,7 +82,11 @@ __Medium, 19__
 * [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/#/description)
 * [Sort List](https://leetcode.com/problems/sort-list/#/description)
 * [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/#/description)
-
+* [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/#/description)
+* [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/#/description)
+* []()
+* []()
+* []()
 
 
 __Hard, 4__
@@ -90,7 +97,8 @@ __Hard, 4__
 * []()
 * []()
 * []()
-
+* []()
+* []()
 
 
 
