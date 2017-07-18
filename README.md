@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 49__
+__EASY, 53__
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
 * [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description)
@@ -45,20 +45,21 @@ __EASY, 49__
 * [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/#/description)
 * [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/#/description)
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)
-* [Intersection of TwoArrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)
+* [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/#/description)
 * [Word Pattern](https://leetcode.com/problems/word-pattern/#/description)
 * [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/#/description)
 * [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)
 * [Missing Number](https://leetcode.com/problems/missing-number/#/description)-Bit Manipulation
 * [Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)
 * [Student Attendance RecordI](https://leetcode.com/problems/student-attendance-record-i/#/description)
+* [Assign Cookies](https://leetcode.com/problems/assign-cookies/#/description)
+* [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/#/description)
 * []()
-* []()
 
 
 
 
-__Medium, 23__
+__Medium, 25__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -86,15 +87,14 @@ __Medium, 23__
 * [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/#/description)
 * []()
 * []()
-* []()
 
 
-__Hard, 4__
+__Hard, 5__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
 * [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/#/description)
-* []()
+* [Valid Number](https://leetcode.com/problems/valid-number/#/description)
 * []()
 * []()
 * []()
