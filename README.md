@@ -2,7 +2,7 @@
 
 ### YING ###
 
-__EASY, 53__
+__EASY, 57__
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)
 * [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description)
@@ -53,13 +53,18 @@ __EASY, 53__
 * [Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)
 * [Student Attendance RecordI](https://leetcode.com/problems/student-attendance-record-i/#/description)
 * [Assign Cookies](https://leetcode.com/problems/assign-cookies/#/description)
-* [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/#/description)
+* [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/#/description) -BST - Inorder Traversal, recursive. 
+* [Power of Two](https://leetcode.com/problems/power-of-two/#/description)
+* [Power of Three](https://leetcode.com/problems/power-of-three/#/description)
+* [Power of Four](https://leetcode.com/problems/power-of-four/#/description)
+* []()
+* []()
+* []()
 * []()
 
 
 
-
-__Medium, 24__
+__Medium, 26__
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/#/description)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/#/description)
@@ -85,18 +90,19 @@ __Medium, 24__
 * [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/#/description)
 * [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/#/description)
 * [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/#/description)
+* [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/#/description)
+* [UTF 8 Validation](https://leetcode.com/problems/utf-8-validation/#/description) --Bit Manipulation
+* [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/#/description)
 * []()
 * []()
 
-
-__Hard__
+__Hard,6__
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/#/description)
 * [Find Minimum in Rotated Sorted Array II](https://leetcode.com/submissions/detail/107998970/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
 * [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/#/description)
 * [Valid Number](https://leetcode.com/problems/valid-number/#/description)
-* []()
-* []()
+* [Merge K Sorted List](https://leetcode.com/problems/merge-k-sorted-lists/#/discuss) -- will do again w/ priority queue.
 * []()
 * []()
 
